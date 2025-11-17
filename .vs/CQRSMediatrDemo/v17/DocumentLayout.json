@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|c:\\projectcodes\\notestraining\\repos\\cqrsmediatrdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|c:\\projectcodes\\notestraining\\repos\\cqrsmediatrdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|c:\\projectcodes\\notestraining\\repos\\cqrsmediatrdemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|c:\\projectcodes\\notestraining\\repos\\cqrsmediatrdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|c:\\projectcodes\\notestraining\\repos\\cqrsmediatrdemo\\application\\queries\\getproductbyid\\getstudentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|solutionrelative:application\\queries\\getproductbyid\\getstudentbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|c:\\projectcodes\\notestraining\\repos\\cqrsmediatrdemo\\application\\queries\\getallproducts\\getallstudentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|solutionrelative:application\\queries\\getallproducts\\getallstudentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|c:\\projectcodes\\notestraining\\repos\\cqrsmediatrdemo\\application\\commands\\updateproduct\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|solutionrelative:application\\commands\\updateproduct\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|c:\\projectcodes\\notestraining\\repos\\cqrsmediatrdemo\\application\\commands\\updateproduct\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|solutionrelative:application\\commands\\updateproduct\\updatestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|c:\\projectcodes\\notestraining\\repos\\cqrsmediatrdemo\\application\\commands\\deleteproduct\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|solutionrelative:application\\commands\\deleteproduct\\deletestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|c:\\projectcodes\\notestraining\\repos\\cqrsmediatrdemo\\application\\commands\\deleteproduct\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|solutionrelative:application\\commands\\deleteproduct\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|c:\\projectcodes\\notestraining\\repos\\cqrsmediatrdemo\\cqrsmediatrdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5B46C7E-1024-95B6-B672-93A07540FC77}|CQRSMediatrDemo.csproj|solutionrelative:cqrsmediatrdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllStudentsHandler.cs",
+              "DocumentMoniker": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Application\\Queries\\GetAllProducts\\GetAllStudentsHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetAllProducts\\GetAllStudentsHandler.cs",
+              "ToolTip": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Application\\Queries\\GetAllProducts\\GetAllStudentsHandler.cs",
+              "RelativeToolTip": "Application\\Queries\\GetAllProducts\\GetAllStudentsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T04:51:37.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetStudentByIdHandler.cs",
+              "DocumentMoniker": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Application\\Queries\\GetProductById\\GetStudentByIdHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Queries\\GetProductById\\GetStudentByIdHandler.cs",
+              "ToolTip": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Application\\Queries\\GetProductById\\GetStudentByIdHandler.cs",
+              "RelativeToolTip": "Application\\Queries\\GetProductById\\GetStudentByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T04:51:49.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:53:45.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T04:50:35.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:38:02.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:39:42.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateStudentHandler.cs",
+              "DocumentMoniker": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Application\\Commands\\UpdateProduct\\UpdateStudentHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\UpdateProduct\\UpdateStudentHandler.cs",
+              "ToolTip": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Application\\Commands\\UpdateProduct\\UpdateStudentHandler.cs",
+              "RelativeToolTip": "Application\\Commands\\UpdateProduct\\UpdateStudentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:01:52.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateStudentCommand.cs",
+              "DocumentMoniker": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Application\\Commands\\UpdateProduct\\UpdateStudentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\UpdateProduct\\UpdateStudentCommand.cs",
+              "ToolTip": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Application\\Commands\\UpdateProduct\\UpdateStudentCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\UpdateProduct\\UpdateStudentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:01:26.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteStudentHandler.cs",
+              "DocumentMoniker": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Application\\Commands\\DeleteProduct\\DeleteStudentHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\DeleteProduct\\DeleteStudentHandler.cs",
+              "ToolTip": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Application\\Commands\\DeleteProduct\\DeleteStudentHandler.cs",
+              "RelativeToolTip": "Application\\Commands\\DeleteProduct\\DeleteStudentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T03:03:28.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteStudentCommand.cs",
+              "DocumentMoniker": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Application\\Commands\\DeleteProduct\\DeleteStudentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\DeleteProduct\\DeleteStudentCommand.cs",
+              "ToolTip": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\Application\\Commands\\DeleteProduct\\DeleteStudentCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\DeleteProduct\\DeleteStudentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T04:45:24.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CQRSMediatrDemo.csproj",
+              "DocumentMoniker": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\CQRSMediatrDemo.csproj",
+              "RelativeDocumentMoniker": "CQRSMediatrDemo.csproj",
+              "ToolTip": "C:\\projectcodes\\notesTraining\\repos\\CQRSMediatrDemo\\CQRSMediatrDemo.csproj",
+              "RelativeToolTip": "CQRSMediatrDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T04:36:57.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

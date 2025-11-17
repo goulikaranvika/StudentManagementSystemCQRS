@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "CQRSMediatrDemo.Controllers.ProductsController",
+    "Method": "Create",
+    "RelativePath": "api/Products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CQRSMediatrDemo.Commands.CreateProduct.CreateProductCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CQRSMediatrDemo.Controllers.ProductsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
